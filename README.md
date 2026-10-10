@@ -5,7 +5,7 @@ Creative Web Designer, Digital Marketer & Developer Portfolio website featuring 
 ## ✨ Features
 
 - **Interactive Canvas Animation**: Smooth frame-by-frame scroll-driven image sequence animation.
-- **Dynamic Project Showcase**: Curated showcase with category filtering (All, 3D Animation, Web Design, Branding, Motion Graphics).
+- **Dynamic Project Showcase**: Curated showcase with category filtering (All Projects, E-Commerce & Web, Meta Ads & Marketing, SEO & Local Search, Social Media & Video, Email Marketing).
 - **Lightbox Preview Modal**: Interactive detailed preview modal with responsive viewports, specifications, and project metadata.
 - **Modern Responsive Design**: Custom typography, glassmorphism cards, glowing accents, and mobile-friendly layouts.
 - **Interactive Metrics & Experience**: Highlighted achievements, statistics, skills breakdown, and client testimonials.
